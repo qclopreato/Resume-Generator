@@ -10,3 +10,13 @@ textarea {
 #submit {
   margin-top: 10px;
 }
+
+#outputs {
+  display: relative;
+  margin: auto;
+  margin-top: 10px;
+  width: 95%;
+  padding: 10px;
+  border: 1px solid red;
+  overflow-wrap: break-word;
+}
