@@ -17,6 +17,5 @@ textarea {
   margin-top: 10px;
   width: 95%;
   padding: 10px;
-  border: 1px solid red;
   overflow-wrap: break-word;
 }
